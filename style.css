@@ -1,0 +1,108 @@
+h1 {
+     display: flex;
+     justify-content:center;
+     font-size: 75px;
+     color:white;
+     text-shadow:blue 1px 3px;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px;
+
+}
+h3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px;
+}
+
+h4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:40px;
+}
+
+h5{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px;
+}
+
+h6{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px; 
+}
+
+
+h7{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px;
+}
+
+h8{ 
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size:60px; 
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content:center;
+}
+
+.solarsystempic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Stars {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.setiimage {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nasaimage {
+    display:block;
+    margin-left: auto;
+    margin-right:auto; 
+}
+
+#navbar {
+    background-color:blue;
+    padding: 20px;
+    display:flex;
+    justify-content:space-around;
+
+}
+
+#navbar a{
+    color:white;
+    font-size:25px;
+    
+}
+
+body {
+    background-color:black;
+}
